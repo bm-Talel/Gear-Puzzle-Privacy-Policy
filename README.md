@@ -1,4 +1,4 @@
-﻿#Gear Puzzle Privacy Policy
+﻿# Gear Puzzle Privacy Policy
 
 
 Effective Date: 17/07/2023
